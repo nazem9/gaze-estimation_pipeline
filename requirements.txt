@@ -1,0 +1,6 @@
+ultralytics
+mediapipe
+scipy
+torch --index-url https://download.pytorch.org/whl/cu126
+git+https://github.com/edavalosanaya/L2CS-Net.git@main
+scikit-learn

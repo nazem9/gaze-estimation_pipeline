@@ -1,0 +1,23 @@
+2025-04-09 16:33:55.977: Gaze_Anomaly_Score_-0.18
+2025-04-09 16:34:05.492: Gaze_Anomaly_Score_-0.01
+2025-04-09 16:34:07.077: Gaze_Anomaly_Score_-0.03
+2025-04-09 16:34:07.283: Gaze_Anomaly_Score_-0.06
+2025-04-09 16:34:07.939: Gaze_Anomaly_Score_-0.04
+2025-04-09 16:34:08.137: Gaze_Anomaly_Score_-0.05
+2025-04-09 16:34:08.353: Gaze_Anomaly_Score_-0.05
+2025-04-09 16:34:08.565: Gaze_Anomaly_Score_-0.05
+2025-04-09 16:34:08.791: Gaze_Anomaly_Score_-0.05
+2025-04-09 16:34:11.403: Gaze_Anomaly_Score_-0.14
+2025-04-09 16:34:11.573: Gaze_Anomaly_Score_-0.14
+2025-04-09 16:34:13.833: Gaze_Anomaly_Score_-0.04
+2025-04-09 16:34:14.770: Detected more than 1 people in the frae
+2025-04-09 16:34:16.820: Detected more than 1 people in the frae
+2025-04-09 16:34:17.828: Phone_Detected_ThresholdMet
+2025-04-09 16:34:19.431: Gaze_Anomaly_Score_-0.02
+2025-04-09 16:34:19.647: Gaze_Anomaly_Score_-0.01
+2025-04-09 16:34:19.860: Gaze_Anomaly_Score_-0.00
+2025-04-09 16:34:22.393: Gaze_Anomaly_Score_-0.01
+2025-04-09 16:34:23.213: Gaze_Anomaly_Score_-0.00
+2025-04-09 16:34:23.848: Gaze_Anomaly_Score_-0.01
+2025-04-09 16:34:31.176: Gaze_Anomaly_Score_-0.14
+2025-04-09 16:34:31.332: Gaze_Anomaly_Score_-0.14
